@@ -1,5 +1,5 @@
 # LinkifyText
- LinkifyText Widget allow to highlight links in Text. It further allow navigation, link opening on browser, on tapping highlighted link.
+ LinkifyText Widget allows to highlight links in Text. It further allow navigation, link opening on browser, on tapping highlighted link.
 
 # Code Example
 
